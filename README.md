@@ -1,2 +1,3 @@
 # hireMe
-Job posting app built with vanilla PHP
+Job posting app built with basic PHP and MySQL.
+Hosting on hostinger

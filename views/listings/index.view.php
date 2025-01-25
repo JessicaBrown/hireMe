@@ -1,6 +1,5 @@
 <?= loadPartials('head'); ?>
 <?= loadPartials('navbar'); ?>
-<?= loadPartials('hero-search'); ?>
 <?= loadPartials('top-banner'); ?>
 
 <!-- Job Listings -->
@@ -169,10 +168,7 @@
                 </div>
             </div>
         </div>
-        <a href="/listings/create" class="block text-xl text-center">
-            <i class="fa fa-arrow-alt-circle-right"></i>
-            Show All Jobs
-        </a>
+
 </section>
 
 
