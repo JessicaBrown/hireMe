@@ -1,2 +1,2 @@
 # hireMe
-Job posting app with PHP
+Job posting app built with vanilla PHP
