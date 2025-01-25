@@ -1,0 +1,8 @@
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /index.php [NC,L,QSA]
+
+If you are using laragon,Xampp etc you have to enable URL rewritting.
+If using PHP dev server this is unessasary 
+Production doesnt usually use php server so might need but dont for this project bc i am using php dev server
